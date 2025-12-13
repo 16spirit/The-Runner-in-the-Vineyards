@@ -1,0 +1,57 @@
+body {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding:20px;
+  font-size:smaller;
+  font-family: sans-serif;
+  color:#2C3138;
+  background-image: url("https://16verve.web.fc2.com/media/wallpaper.png");
+  background-repeat: repeat;        /* 画像を繰り返し表示 */
+  background-size: 300px;            /* 元のサイズのまま */
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+mark {
+    background: linear-gradient(
+      to top,
+      #fff3b0 60%,   /* 下から60%まで塗る */
+      transparent 60%
+    );
+    color: inherit;
+    padding: 0 0.1em;
+  }
+
+  .box{background-color:#F7F7F7;color:#595F63;1px;margin:20 0 20;padding:10px 20px;border-radius: 12px; }
+  
+  a {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    color: #2C3138;
+}
+  hr {
+    margin:100 0 0;
+    border: 0 none;
+    height: 0.5px;
+    background-color: #595F63;
+} 
+  .box a {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    color: #595F63;
+}
+  
+  .linkcard a {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    color: #595F63;
+}
+  
+  details{background-color:#F7F7F7;color:#595F63:1px;margin:20 0 20;padding:10px 20px;border-radius: 12px; }
+  
+  @media screen and (max-width: 400px) {
+    body{padding:20px;}
+  }
