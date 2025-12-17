@@ -1,5 +1,5 @@
 # Mathematics-Diary
 
-何となくホームページを作ってみました．ゼミの進捗とか，自作pdfとか，気が向けばブログじみたこともしたいと思ってます．
+何となくホームページを作ってみました．主にはゼミの記録用．
 
 URL: [16spirit.github.io](https://16spirit.github.io/Mathematics-Diary/)
