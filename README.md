@@ -1,4 +1,4 @@
-# Mathematics-Diary
+# The Runner in the Vineyards
 
 何となくホームページを作ってみました．主にはゼミの記録用．
 
